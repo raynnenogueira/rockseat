@@ -136,7 +136,7 @@ ul li a:hover {
 #social-links {
   display: flex;
   justify-content: center;
-  padding: 24px 0;
+  padding: 9px 0;
   font-size: 40px;
 }
 
@@ -155,7 +155,7 @@ ul li a:hover {
 }
 
 footer {
-  /*padding: 24px 0; */
+  padding: 10px;
   text-align: center;
   font-size: 14px;
 }
